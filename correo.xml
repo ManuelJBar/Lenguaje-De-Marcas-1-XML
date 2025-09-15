@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+  <de>manuel.j.barrachina@gmail.com</de>
+  <para>manuel@mundo.expert.com</para>
+  <asunto>Consulta sobre el proyecto</asunto>
+  <mensaje>
+    Hola Manuel,
+
+    Quería comentarte algunos puntos sobre el proyecto. ¿Podemos agendar una reunión esta semana?
+
+    Saludos,
+    Manuel
+  </mensaje>
+</email>
